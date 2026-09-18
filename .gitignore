@@ -1,0 +1,5 @@
+# Local personalization. Never commit completed profile data.
+PROFILE.md
+
+# Operating-system files
+.DS_Store
