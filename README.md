@@ -66,10 +66,12 @@ If you already have a personalized skill at that path, do not run the copy comma
 ```text
 SKILL.md
 PROFILE_TEMPLATE.md
-references/
-├── ai-data-quality-feedback-loop-post.md
-└── company-ai-regression-post.md
+README.md
+LICENSE
+CHANGELOG.md
 ```
+
+The repository intentionally contains no post-specific reference files. Add examples locally if you need them for a particular project or brand.
 
 ## Design principles
 

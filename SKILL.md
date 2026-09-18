@@ -640,8 +640,6 @@ Then provide one full draft for the strongest direction, unless the user asks on
 - If the user dislikes a proposed hook, generate a focused batch of alternate hooks before rewriting the full post. Rank or recommend the strongest option and explain briefly why.
 - When the user asks for image or carousel ideas, provide practical per-slide data with main text, supporting text, visual direction, and caption pairing.
 - For conceptual or technical posts where a diagram would clarify the idea, consider a simple hand-drawn or Excalidraw-style graphic before suggesting a generic AI-generated photo.
-- For a generalized company-account regression example, see `references/company-ai-regression-post.md`.
-- For an AI data quality and feedback-loop example, see `references/ai-data-quality-feedback-loop-post.md`.
 
 ### Mode C: Rewrite Existing Draft
 
