@@ -49,14 +49,14 @@ Do not put passwords, API keys, private client information, or confidential comp
 Clone the repository somewhere safe first:
 
 ```bash
-git clone https://github.com/zh10only1/linkedin-post-generator-skill.git
+git clone https://github.com/zh10only1/linkedin-post-gen-skill.git
 ```
 
 To install it as a Hermes skill without overwriting an existing skill, copy the directory into your Hermes skills folder under a distinct name or back up the existing directory first:
 
 ```bash
 mkdir -p ~/.hermes/skills/social-media
-cp -R linkedin-post-generator-skill ~/.hermes/skills/social-media/linkedin-post-generator
+cp -R linkedin-post-gen-skill ~/.hermes/skills/social-media/linkedin-post-generator
 ```
 
 If you already have a personalized skill at that path, do not run the copy command until you have backed it up or chosen another directory.
